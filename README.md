@@ -147,4 +147,4 @@ visualize_adjacency_matrix(bars_rhythm)
 
 &diams; 資料集可使用 [POP909](https://github.com/music-x-lab/POP909-Dataset)，[Wikifonia](https://github.com/00sapo/OpenEWLD) 以及原作者使用的 [Schumann](https://github.com/hedonistrh/bestekar) 來測試。
 
-詳細的程式碼等資料請參閱我的 [Github](https://github.com/Zedekian "Github") 
+詳細的資料請參閱我的 [code](https://github.com/Zedekian/Music_gerenation/blob/main/Music_generator.ipynb)

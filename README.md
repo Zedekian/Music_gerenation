@@ -17,6 +17,9 @@
 | Cuda  | 依顯卡需求  | 11.7 |
 &diams; 另外需安裝 [Musescore3](https://musescore.org/en/3.0 "Musescore3") 作為樂譜讀取和輸出用的載體。
 
+### 流程架構圖
+![Music Generation Framework](GCN_LSTM.jpg)
+
 ### 使用說明
 ##### 資料預處理
 訓練音樂前，需將音樂資料夾內的所有檔案 (.mxl 或 .mid) 打包成 .npy 以供後續程式做讀取。
